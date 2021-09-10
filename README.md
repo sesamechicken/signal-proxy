@@ -1,6 +1,8 @@
 # signal-proxy
 An OS X Signal app launcher that will let you configure it's proxy server.
 
+![img](https://github.com/sesamechicken/signal-proxy/blob/main/demo.gif)
+
 ## 🛠 To configure your proxy settings
 - create a text file with the full address and port of your proxy server (e.g. `http://127.0.0.1:3128`)
 - drag this text file on top of the Signal Proxy app
